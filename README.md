@@ -1,2 +1,3 @@
 # Google-capstone-project
-The end of the course project applies all the skills and collects them in one project
+At the end of the course project apply all the skills and collect them into one project
+![logo](capstone.jpg)
